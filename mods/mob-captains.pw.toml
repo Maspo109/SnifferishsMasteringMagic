@@ -1,0 +1,13 @@
+name = "Mob Captains"
+filename = "MobCaptains-v2.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f5f9303095e5f82ee442f122fcfd1393203b4d0f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4720207
+project-id = 857310

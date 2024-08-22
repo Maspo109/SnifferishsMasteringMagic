@@ -1,0 +1,13 @@
+name = "Block Swapper"
+filename = "Block_Swapper-1.20.1-2.0a.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "726d4dad4a0f3333c60b989a8a41f44ec4cd3fdf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4757507
+project-id = 678078

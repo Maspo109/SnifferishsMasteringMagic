@@ -1,0 +1,16 @@
+name = "Snifferish's Mastering Magic"
+author = "Maspo109"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5e11aa9288145e95ae9fda271c9dcf7d6812ae79244604aa79eb79849cf1484d"
+
+[versions]
+forge = "47.3.6"
+minecraft = "1.20.1"
+
+[options]
+acceptable-game-versions = ["1.19.3"]

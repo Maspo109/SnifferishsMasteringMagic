@@ -1,0 +1,13 @@
+name = "CTOV - Paragliders compat"
+filename = "ctov-paragliders-add-on-v-2-0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "347222bacef3197a1237f8249b11c60bb14dc600"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4620634
+project-id = 883459

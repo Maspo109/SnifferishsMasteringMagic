@@ -1,0 +1,13 @@
+name = "Iron's Spells' Recipe Additions"
+filename = "IronsRecipeAdditions_1.20.1_modversion_2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "31498062007f2b828922c7b1f46595f5421386f4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5512268
+project-id = 911386

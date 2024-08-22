@@ -1,0 +1,13 @@
+name = "Better Safe Bed"
+filename = "bettersafebed-forge-1.20-9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9471197884bdc913ef26468b5987a6ab02592db5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4699510
+project-id = 484804

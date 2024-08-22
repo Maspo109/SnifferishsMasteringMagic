@@ -1,0 +1,13 @@
+name = "CTOV - Iron's Spells 'n Spellbooks compat"
+filename = "ctov-irons-add-on-v1-2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e544c001bde13396a1d9740d6473eaf0c1c1f825"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4753359
+project-id = 897045

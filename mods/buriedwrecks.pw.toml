@@ -1,0 +1,13 @@
+name = "Buried Wrecks"
+filename = "BuriedWrecks-1.20.1-3.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "faa5746c41d2a739281f402de1678455c7d82ee2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4612577
+project-id = 665260

@@ -1,0 +1,13 @@
+/.gitattributes
+/.gitignore
+/.packwizignore
+
+/LICENSE
+/README.md
+
+/icon.png
+
+/.github
+/build
+/build.sh
+/build.bat
